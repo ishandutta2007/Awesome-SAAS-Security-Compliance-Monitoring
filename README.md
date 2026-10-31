@@ -60,64 +60,64 @@ Below is a comparison of premier commercial SaaS compliance monitoring and audit
 
 Open-source tooling has matured significantly, offering self-hosted alternatives for continuous compliance, security posture monitoring, and evidence collection.
 
-All open-source repositories below are sorted in **descending order by GitHub Star count**, featuring real-time social badges linking directly to each project's stargazers.
+All open-source repositories below are sorted in **descending order by GitHub Stars_Count**, featuring real-time social badges linking directly to each project's stargazers.
 
 ### 🌟 Full GRC & Compliance Platforms
 
-* **[CISO Assistant](https://github.com/intuitem/ciso-assistant-community)** [![GitHub stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers) 🛡️  
+* **[CISO Assistant](https://github.com/intuitem/ciso-assistant-community)** [![GitHub_Stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers) 🛡️  
   Comprehensive open-source GRC platform covering Risk Management, AppSec, Compliance & Audit, TPRM, BIA, and Privacy. Supports 200+ global frameworks (ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA, GDPR, HIPAA) with automated control mapping and Model Context Protocol (MCP) support.
 
-* **[Comply](https://github.com/strongdm/comply)** [![GitHub stars](https://img.shields.io/github/stars/strongdm/comply?style=social&color=white)](https://github.com/strongdm/comply/stargazers) 📋  
+* **[Comply](https://github.com/strongdm/comply)** [![GitHub_Stars](https://img.shields.io/github/stars/strongdm/comply?style=social&color=white)](https://github.com/strongdm/comply/stargazers) 📋  
   Developer-first compliance framework and SOC 2 automation tool created by StrongDM. Treats compliance as code by automating policy generation, ticketing, and evidence pipelines directly in Git.
 
-* **[Probo](https://github.com/getprobo/probo)** [![GitHub stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers) 🤖  
+* **[Probo](https://github.com/getprobo/probo)** [![GitHub_Stars](https://img.shields.io/github/stars/getprobo/probo?style=social&color=white)](https://github.com/getprobo/probo/stargazers) 🤖  
   Modern, ISC-licensed self-hostable GRC platform. Covers risks, controls, vendor risk, privacy (DPIA/TIA), access reviews, and audit programs with **270+ MCP tools** for agentic AI automation, a Web console, and a comprehensive CLI. Includes a public compliance Trust Center portal.
 
-* **[Deming](https://github.com/sourcentis/deming)** [![GitHub stars](https://img.shields.io/github/stars/sourcentis/deming?style=social&color=white)](https://github.com/sourcentis/deming/stargazers) 🇪🇺  
+* **[Deming](https://github.com/sourcentis/deming)** [![GitHub_Stars](https://img.shields.io/github/stars/sourcentis/deming?style=social&color=white)](https://github.com/sourcentis/deming/stargazers) 🇪🇺  
   Open-source Information Security Management System (ISMS) engineered for ISO/IEC 27001 (Chapter 9). Built by CISOs for CISOs with native multi-lingual support (FR/EN/DE) for NIS2, DORA, PCI DSS 4.0, NIST SP 800-53, and HDS.
 
-* **[Openlane](https://github.com/theopenlane/core)** [![GitHub stars](https://img.shields.io/github/stars/theopenlane/core?style=social&color=white)](https://github.com/theopenlane/core/stargazers) 🔓  
+* **[Openlane](https://github.com/theopenlane/core)** [![GitHub_Stars](https://img.shields.io/github/stars/theopenlane/core?style=social&color=white)](https://github.com/theopenlane/core/stargazers) 🔓  
   Permissive Apache-2.0 open-source compliance automation platform for SOC 2, GDPR, ISO 27001, and NIST 800-53. Ships with native SSO and multi-tenant fine-grained authorization (OpenFGA) without enterprise gates.
 
-* **[GovReady-Q](https://github.com/GovReady/govready-q)** [![GitHub stars](https://img.shields.io/github/stars/GovReady/govready-q?style=social&color=white)](https://github.com/GovReady/govready-q/stargazers) 🏛️  
+* **[GovReady-Q](https://github.com/GovReady/govready-q)** [![GitHub_Stars](https://img.shields.io/github/stars/GovReady/govready-q?style=social&color=white)](https://github.com/GovReady/govready-q/stargazers) 🏛️  
   Open-source GRC platform and self-service compliance assessment tool focused on turning complex compliance frameworks (such as NIST SP 800-53 and FedRAMP) into friendly automated questionnaires.
 
-* **[OpenGRC](https://github.com/LeeMangold/OpenGRC)** [![GitHub stars](https://img.shields.io/github/stars/LeeMangold/OpenGRC?style=social&color=white)](https://github.com/LeeMangold/OpenGRC) 📊  
+* **[OpenGRC](https://github.com/LeeMangold/OpenGRC)** [![GitHub_Stars](https://img.shields.io/github/stars/LeeMangold/OpenGRC?style=social&color=white)](https://github.com/LeeMangold/OpenGRC) 📊  
   Lightweight, self-hosted GRC platform designed for small-to-midsize security teams to track risks, audits, vendor security, and compliance against ISO 27001, SOC 2, NIST CSF, and HIPAA.
 
-* **[Cairn](https://github.com/frousselet/cairn)** [![GitHub stars](https://img.shields.io/github/stars/frousselet/cairn?style=social&color=white)](https://github.com/frousselet/cairn/stargazers) ⏱️  
+* **[Cairn](https://github.com/frousselet/cairn)** [![GitHub_Stars](https://img.shields.io/github/stars/frousselet/cairn?style=social&color=white)](https://github.com/frousselet/cairn/stargazers) ⏱️  
   Enforced-governance GRC platform where state changes follow strict permissioned transitions with immutable audit trails. Built-in regulatory notification clocks for European compliance directives (GDPR, NIS2, DORA) and MCP server capabilities.
 
 ---
 
 ### ☁️ Cloud & Infrastructure Security Posture / Compliance
 
-* **[Prowler](https://github.com/prowler-cloud/prowler)** [![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) ☁️  
+* **[Prowler](https://github.com/prowler-cloud/prowler)** [![GitHub_Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) ☁️  
   Open-source security assessment, auditing, and continuous monitoring tool for AWS, Azure, Google Cloud, and Kubernetes. Features thousands of automated checks mapped to CIS Benchmarks, SOC 2, ISO 27001, HIPAA, and GDPR.
 
-* **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) 📜  
+* **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) 📜  
   Open-source, general-purpose policy engine that enables unified, context-aware policy enforcement across microservices, Kubernetes, CI/CD pipelines, and cloud API gateways.
 
-* **[Steampipe](https://github.com/turbot/steampipe)** [![GitHub stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers) 🔎  
+* **[Steampipe](https://github.com/turbot/steampipe)** [![GitHub_Stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers) 🔎  
   Zero-ETL SQL engine for cloud infrastructure, SaaS APIs, and identity providers. Allows you to run continuous compliance queries and map cloud configurations against regulatory controls using standard SQL.
 
-* **[CloudQuery](https://github.com/cloudquery/cloudquery)** [![GitHub stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers) 🗄️  
+* **[CloudQuery](https://github.com/cloudquery/cloudquery)** [![GitHub_Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers) 🗄️  
   High-performance open-source ELT data integration framework for cloud assets and security compliance data. Extracts cloud configurations and loads them into database backends for continuous security analytics.
 
-* **[ComplianceAsCode/content](https://github.com/ComplianceAsCode/content)** [![GitHub stars](https://img.shields.io/github/stars/ComplianceAsCode/content?style=social&color=white)](https://github.com/ComplianceAsCode/content/stargazers) 🛠️  
+* **[ComplianceAsCode/content](https://github.com/ComplianceAsCode/content)** [![GitHub_Stars](https://img.shields.io/github/stars/ComplianceAsCode/content?style=social&color=white)](https://github.com/ComplianceAsCode/content/stargazers) 🛠️  
   Automated compliance content for Linux operating systems and container environments, maintaining baseline policies for PCI-DSS, STIG, NIST SP 800-53, and CIS benchmarks.
 
 ---
 
 ### 🛡️ Vulnerability & Application Security Management
 
-* **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) 🎯  
+* **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) 🎯  
   All-in-one security scanner providing vulnerability detection, SBOM generation, secret scanning, and IaC misconfiguration audits across container images, filesystems, and Git repositories.
 
-* **[Syft](https://github.com/anchore/syft)** [![GitHub stars](https://img.shields.io/github/stars/anchore/syft?style=social&color=white)](https://github.com/anchore/syft/stargazers) 📦  
+* **[Syft](https://github.com/anchore/syft)** [![GitHub_Stars](https://img.shields.io/github/stars/anchore/syft?style=social&color=white)](https://github.com/anchore/syft/stargazers) 📦  
   CLI tool and Go library for generating Software Bills of Materials (SBOMs) from container images and filesystems, vital for regulatory software supply-chain compliance (Executive Order 14028).
 
-* **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers) 🏰  
+* **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub_Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers) 🏰  
   Leading open-source Application Security Posture Management (ASPM) and vulnerability management platform, aggregating findings from commercial and open-source scanners for streamlined audit compliance reporting.
 
 ---
