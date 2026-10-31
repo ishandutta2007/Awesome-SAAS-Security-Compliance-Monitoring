@@ -6,10 +6,12 @@
 
 > ⚡ **A curated directory of top SaaS platforms and open-source tooling for SaaS Security Posture Management (SSPM), Continuous Compliance Automation, Evidence Collection, and Self-Hosted GRC Platforms.**
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=fortthe-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-SAAS-Security-Compliance-Monitoring/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-SAAS-Security-Compliance-Monitoring)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followess" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ---
 
@@ -21,6 +23,8 @@
   - [Cloud & Infrastructure Security Posture / Compliance](#-cloud--infrastructure-security-posture--compliance)
   - [Vulnerability & Application Security Management](#-vulnerability--application-security-management)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer](#-disclaimer)
 
 ---
@@ -131,6 +135,27 @@ Contributions are welcome and highly appreciated! 🎉
 6. 🎯 **Open a Pull Request** with a brief summary of the additions.
 
 ⭐ **Don't forget to star the repository if you found it useful!**
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing this curated SaaS Security & Compliance Monitoring ecosystem directory! 🙏
+
+If you find this repository valuable for your security team, auditing preparations, or cloud engineering work, please consider supporting the project:
+
+- ⭐ **Star this repository** to improve visibility and help other practitioners find it.
+- 🍴 **Fork and contribute** updates, newly discovered OSS tools, or updated pricing benchmarks.
+- 📢 **Share it** on LinkedIn, X/Twitter, Reddit, or your engineering team's Slack/Discord.
+- ☕ **Buy a coffee / Sponsor the creator**: Back future development and curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this directory continuously monitored, accurate, and up to date! 🚀
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-SAAS-Security-Compliance-Monitoring&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-SAAS-Security-Compliance-Monitoring&type=date&legend=top-left)
 
 ---
 
