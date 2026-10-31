@@ -60,7 +60,7 @@ Below is a comparison of premier commercial SaaS compliance monitoring and audit
 
 Open-source tooling has matured significantly, offering self-hosted alternatives for continuous compliance, security posture monitoring, and evidence collection.
 
-All open-source repositories below are sorted in **descending order by GitHub Stars_Count**, featuring real-time social badges linking directly to each project's stargazers.
+All open-source repositories below are sorted in **descending order by GitHub_Stars_Count**, featuring real-time social badges linking directly to each project's stargazers.
 
 ### 🌟 Full GRC & Compliance Platforms
 
